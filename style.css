@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    text-align: center;
+    background-color: azure;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+
+main {
+    background-color: white;
+    margin: 10px;
+    border-radius: 2px;
+}
+
+.Table {
+    background-color: white;
+
+}
+
+ul, li {
+    align-items: center;
+}
+
+
+table, tr, td {
+    border: 2px;
+}
+
+th {
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+}
+
+aside {
+    background-color: white;
+    border-radius: 2px;
+    margin: 10px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+
+img {
+    border-radius: 50%;
+}
